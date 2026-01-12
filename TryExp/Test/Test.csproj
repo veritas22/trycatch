@@ -18,4 +18,8 @@
     <Using Include="Xunit" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TryExp\TryExp.csproj" />
+  </ItemGroup>
+
 </Project>
